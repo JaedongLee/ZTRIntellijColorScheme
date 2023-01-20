@@ -1,0 +1,102 @@
+<scheme name="ZTR" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2023-01-20T22:54:03</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2022.3.1.0.0</property>
+    <property name="modified">2023-01-20T22:54:13</property>
+    <property name="originalScheme">ZTR</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <colors>
+    <option name="GUTTER_BACKGROUND" value="212121" />
+  </colors>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_CLASS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="8acb" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_DELEGATE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_EXTENSION_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ccbd67" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="fb9ba" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="fb9ba" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_NAMESPACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="8acb" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="e568a9" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PREPROCESSOR_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ccbd67" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_STATIC_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="1b1b1b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
